@@ -1,0 +1,8 @@
+node_modules/
+crawled_pages/
+*_PACKAGE/
+*.csv
+*.json
+!package.json
+!package-lock.json
+ANALYSIS_REPORTS/
